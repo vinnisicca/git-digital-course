@@ -12,3 +12,4 @@
 
 # novo teste novo
 * comando git pull
+* comando git fetch
